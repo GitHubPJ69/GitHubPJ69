@@ -1,16 +1,50 @@
-## Hi there 👋
+# Pierre-Jean Martin
 
-<!--
-**GitHubPJ69/GitHubPJ69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Infrastructure Engineer** · Lausanne, Switzerland  
+EPFL graduate in Robotics · Building AI systems at [The Original Body](https://github.com/the-original-body)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+I design and ship the AI layer that connects production systems together.
+
+**TOB Oracle** — a self-hosted knowledge platform (think NotebookLM × Glean) connecting 15+ data sources (Slack, GitHub, Notion, Google Drive...) with hybrid RAG and multi-agent LLM workflows.
+
+**TOB LLM Pipelines** — deterministic, multi-step LangGraph pipelines for ticket analysis, podcast generation, YouTube summaries, marketing emails, and more. Deployable as a standalone LangGraph server or in-process within Oracle.
+
+Things I've shipped:
+- Production RAG pipeline — 140k+ vector chunks, nightly sync, hybrid semantic search
+- Multi-agent orchestration with LangGraph across 15 LLM providers
+- Full-stack deployment on Hetzner (Docker, Nginx, Cloudflare Access)
+- Role-based access control and multi-tenant search spaces
+- Palantir Foundry integration for enterprise data ingestion
+- Onboarding and technical mentoring of junior developers
+
+---
+
+## Stack
+
+**Backend** · Python 3.11 · FastAPI · LangGraph · LangChain · LiteLLM · Celery · Redis  
+**Data** · PostgreSQL · pgvector · SQLAlchemy  
+**Frontend** · Next.js · React 19 · TypeScript · Tailwind  
+**Infra** · Docker · Nginx · Cloudflare · Hetzner · n8n  
+**Integrations** · Palantir Foundry · LangSmith · Claude Code
+
+---
+
+## Background
+
+Robotics engineer from EPFL, now working at the intersection of AI systems and production infrastructure.
+
+---
+
+## GitHub Stats
+
+![Pierre-Jean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitHubPJ69&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubPJ69&layout=compact&theme=dark&hide_border=true)
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fpierre--jean--martin-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/pierre-jean-martin)
