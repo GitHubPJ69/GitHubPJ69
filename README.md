@@ -41,9 +41,9 @@ Robotics engineer from EPFL, now working at the intersection of AI systems and p
 
 ## GitHub Stats
 
-![Pierre-Jean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitHubPJ69&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![](https://komarev.com/ghpvc/?username=GitHubPJ69&style=flat&color=blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubPJ69&layout=compact&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GitHubPJ69&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
